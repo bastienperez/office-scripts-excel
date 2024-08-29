@@ -4,9 +4,11 @@ Welcome to the `office-scripts-excel` repository! This collection contains vario
 
 ## Repository Contents
 
-name
-\_ name.ts
-\_ name.osts
+```
+├── name
+│   ├── name.ts
+│   └── name.osts
+```
 
 - **`.ts` file**: This file contains the raw TypeScript code of the script.
 - **`.osts` file**: This file is ready to be imported directly into Excel.
