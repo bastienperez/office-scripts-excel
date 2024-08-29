@@ -6,8 +6,8 @@ Welcome to the `office-scripts-excel` repository! This collection contains vario
 
 ```
 ├── name
-│   ├── name.ts
-│   └── name.osts
+   ├── name.ts
+   └── name.osts
 ```
 
 - **`.ts` file**: This file contains the raw TypeScript code of the script.
