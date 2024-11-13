@@ -13,7 +13,7 @@ Adds an auto-filter to the first row, allowing to filter and sort the data easil
 - **Auto-Filter Application**: An auto-filter is applied to the first row, enabling easy filtering and sorting of data across columns.
 ## Usage
 
-See [README.md](../README.md) for more details.
+See [README.md](..) for more details.
  
 ### Example Execution
 
