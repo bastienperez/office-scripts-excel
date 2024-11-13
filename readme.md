@@ -42,4 +42,4 @@ By following these methods, you can easily integrate and use the scripts provide
 
 If you have any scripts you'd like to contribute or improvements to suggest, feel free to create a pull request or open an issue!
 
-"Sit back and relish in the extra time you've just unlocked!"
+> "Sit back and relish in the extra time you've just unlocked!"
